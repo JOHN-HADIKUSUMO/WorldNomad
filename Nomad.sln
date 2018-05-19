@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nomad.Web", "Nomad.Web\Nomad.Web.csproj", "{E2E18C62-69BE-49BB-92F2-29CA509727DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nomad.Testing", "Nomad.Testing\Nomad.Testing.csproj", "{64C9A83D-5BDB-4553-AC28-1783F444540E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nomad.Logic", "Nomad.Logic\Nomad.Logic.csproj", "{3F38F420-ECB1-4BD9-B9FC-AA1DFFFB62C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2E18C62-69BE-49BB-92F2-29CA509727DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E18C62-69BE-49BB-92F2-29CA509727DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E18C62-69BE-49BB-92F2-29CA509727DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E18C62-69BE-49BB-92F2-29CA509727DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C9A83D-5BDB-4553-AC28-1783F444540E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C9A83D-5BDB-4553-AC28-1783F444540E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C9A83D-5BDB-4553-AC28-1783F444540E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C9A83D-5BDB-4553-AC28-1783F444540E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F38F420-ECB1-4BD9-B9FC-AA1DFFFB62C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F38F420-ECB1-4BD9-B9FC-AA1DFFFB62C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F38F420-ECB1-4BD9-B9FC-AA1DFFFB62C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F38F420-ECB1-4BD9-B9FC-AA1DFFFB62C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

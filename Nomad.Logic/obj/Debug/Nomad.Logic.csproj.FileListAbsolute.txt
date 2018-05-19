@@ -1,0 +1,10 @@
+D:\Nomad\Nomad.Web\Nomad.Logic\bin\Debug\Nomad.Logic.dll
+D:\Nomad\Nomad.Web\Nomad.Logic\bin\Debug\Nomad.Logic.pdb
+D:\Nomad\Nomad.Web\Nomad.Logic\obj\Debug\Nomad.Logic.csprojResolveAssemblyReference.cache
+D:\Nomad\Nomad.Web\Nomad.Logic\obj\Debug\Nomad.Logic.dll
+D:\Nomad\Nomad.Web\Nomad.Logic\obj\Debug\Nomad.Logic.pdb
+D:\Nomad\Nomad.Logic\bin\Debug\Nomad.Logic.dll
+D:\Nomad\Nomad.Logic\bin\Debug\Nomad.Logic.pdb
+D:\Nomad\Nomad.Logic\obj\Debug\Nomad.Logic.dll
+D:\Nomad\Nomad.Logic\obj\Debug\Nomad.Logic.pdb
+D:\Nomad\Nomad.Logic\obj\Debug\Nomad.Logic.csprojResolveAssemblyReference.cache
